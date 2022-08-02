@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="REDZ-MD" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="REDZ-MD" src="https://img.shields.io/badge/REDZ-MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riy04/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [REDZ-MD](https://wa.me/6283808221334)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -75,4 +75,4 @@ npm start
 - Dika Ardnt
 - Fatih Arridho
 - Yoga
-- Riy
+- Redz
